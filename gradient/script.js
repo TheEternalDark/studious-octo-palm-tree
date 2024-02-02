@@ -232,7 +232,7 @@ function updateSpitter(event) {
  * padding function:
  * cba to roll my own, thanks Pointy!
  * ==================================
- * source: http://stackoverflow.com/questions/10073699/pad-a-number-with-leading-zeros-in-javascript
+ * source: httpss://stackoverflow.com/questions/10073699/pad-a-number-with-leading-zeros-in-javascript
  */
 function pad(n, width, z) {
   z = z || "0";
